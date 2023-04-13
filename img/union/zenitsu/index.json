@@ -1,0 +1,13 @@
+{
+    "run":{"folder":"run","start":6,"end":20,"anim":null,"stay_top":15}
+    ,
+    "styles":[
+        {"id":1,"folder":"THUNDER_1","start":1,"end":35,"stay_top":15},
+        {"id":2,"folder":"THUNDER_2","start":1,"end":35,"stay_top":15},
+        {"id":3,"folder":"THUNDER_3","start":1,"end":35,"stay_top":15},
+        {"id":4,"folder":"THUNDER_4","start":1,"end":35,"stay_top":15}
+
+
+
+    ]  ,"stay_top":15
+}

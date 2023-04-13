@@ -1,0 +1,15 @@
+{
+    "run":{"folder":"run","start":1,"end":35,"anim":null,"stay_top":15},
+    "styles":[
+        {"id":1,"folder":"BEAST_1","start":1,"end":39,"stay_top":20},
+        {"id":2,"folder":"BEAST_2","start":1,"end":35,"stay_top":15},
+        {"id":5,"folder":"BEAST_5","start":1,"end":55,"stay_top":15},
+        {"id":6,"folder":"BEAST_6","start":1,"end":75,"stay_top":15},
+        {"id":8,"folder":"BEAST_8","start":1,"end":125,"stay_top":17},
+        {"id":9,"folder":"BEAST_9","start":1,"end":39,"stay_top":20}
+
+
+
+    ],"stay_top":20
+    
+}

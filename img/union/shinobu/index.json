@@ -1,0 +1,13 @@
+{
+    "run":{"folder":"run","start":4,"end":22,"anim":null,"stay_top":15},
+    "styles":[
+        {"id":2,"folder":"INSECT_2","start":1,"end":46,"stay_top":14},
+        {"id":3,"folder":"INSECT_3","start":1,"end":25,"stay_top":13},
+        {"id":4,"folder":"INSECT_4","start":1,"end":16,"stay_top":13}
+
+
+
+    ],
+    "stay_top":13
+    
+}

@@ -1,0 +1,13 @@
+{
+    "run":{"folder":"run","start":5,"end":21,"anim":null,"stay_top":15},
+    "styles":[
+        {"id":2,"folder":"FLAME_2","start":1,"end":27,"stay_top":15},
+        {"id":3,"folder":"FLAME_3","start":1,"end":24,"stay_top":15},
+        {"id":5,"folder":"FLAME_5","start":1,"end":24,"stay_top":15},
+        {"id":6,"folder":"FLAME_6","start":1,"end":26,"stay_top":15}
+
+
+
+    ],
+    "stay_top":15
+}

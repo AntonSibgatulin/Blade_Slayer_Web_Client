@@ -1,0 +1,13 @@
+{
+    "FLAME":[{"url":"sprites/firenew.webp","dtX":128,"countX":8,"dtY":128,"countY":6,"name":"fireball"},
+    {"url":"sprites/fireball.png","dtX":100,"countX":10,"name":"fireball_old"}],
+    "WATER":[{"url":"sprites/waternew.webp","dtX":128,"countX":4,"dtY":128,"countY":3,"name":"waterball"}
+    ],
+    "BEAST":[{"url":"sprites/image (5).webp","dtX":64,"countX":4,"dtY":64,"countY":3,"name":"beastball"}],
+    "BALL":[{"url":"sprites/ricochet_shot.png","dtX":150,"countX":10,"name":"fireballs","newSizeX":2,"newSizeY":2}],
+    "INSECT":[{"url":"sprites/image (2).webp","dtX":128,"countX":4,"dtY":128,"countY":4,"name":"insectball"}],
+    "THUNDER":[
+        {"url":"sprites/red_thunder.png","dtX":100,"countX":4,"dtY":500,"countY":1,"name":"thunderball","newSizeX":1,"newSizeY":3},
+        {"url":"sprites/heal_shaft2.png","count":5,"name":"thunders"},{"url":"sprites/damage_shaft.png","count":5,"vertical":false,"name":"thunder_side"}]
+   
+}
